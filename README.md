@@ -7,7 +7,7 @@
 
 ## Expected Outcome
 
-![CSS-GRID & JS IOS CALCULATOR](./assets/img/003.gif)
+![CSS-GRID & JS IOS CALCULATOR](./assets/003.gif)
 
 ### At the end of the project, following topics are to be covered;
 
