@@ -1,6 +1,5 @@
 # IOS-Calculator
 
-- <a href="https://karamanburak.github.io/IOS-Calculator/" rel="noFollow">Access the finished project online</a>
 
 ## Description
 
@@ -8,11 +7,7 @@
 
 ## Expected Outcome
 
-![CSS-GRID IOS CALCULATOR](./css-grid-ios.gif)
-
-## Objective
-
-Design a IOS CALCULATOR that is functionally similar to this: [IOS CALCULATOR](https://karamanburak.github.io/IOS-Calculator/)
+![CSS-GRID & JS IOS CALCULATOR](./assets/img/003.gif)
 
 ### At the end of the project, following topics are to be covered;
 
@@ -20,13 +15,16 @@ Design a IOS CALCULATOR that is functionally similar to this: [IOS CALCULATOR](h
 
 - CSS
 
-## Steps to Solution
+- JavaScript
 
-- Step 1: Download or clone project repo on Github
+## Solution Steps
 
-- Step 2: Establish a project folder for the local public repo on your PC
+- Step 1: Download or clone the project repository on Github
+
+- Step 2: Create a project folder for the local public repository on your computer
 
 - Step 3:
-  - Craft the HTML structure for the calculator.
-  - Implement the CSS-GRID structure as showcased in the provided image.
-  - Ensure seamless functionality mirroring the IOS CALCULATOR.
+  - Create the HTML structure for the calculator.
+  - Apply the CSS-GRID structure as shown in the given image.
+  - Add the required functionality with Javascript.
+  - Provide seamless functionality that mirrors the iOS Calculator.
